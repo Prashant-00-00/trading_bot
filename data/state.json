@@ -1,0 +1,10 @@
+{
+  "RSI": {
+    "position": "NONE",
+    "buyPrice": 0
+  },
+  "EMA_CROSS": {
+    "position": "HOLDING",
+    "buyPrice": 27200
+  }
+}

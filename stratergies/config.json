@@ -1,0 +1,17 @@
+{
+  "RSI": {
+    "enabled": true,
+    "period": 14,
+    "oversold": 30,
+    "overbought": 70,
+    "takeProfit": 1.04,
+    "stopLoss": 0.98,
+    "positionSize": 0.02
+  },
+  "EMA_CROSS": {
+    "enabled": true,
+    "shortPeriod": 9,
+    "longPeriod": 21,
+    "positionSize": 0.03
+  }
+}
